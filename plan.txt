@@ -2,11 +2,15 @@
 
 Goal: theory‑heavy, reality‑grounded, notebook‑first, with examples throughout.
 
+## Project conventions
+
+- Use UK English throughout the course materials and planning documents.
+
 ## Knowledge Tree (Conceptual Map)
 
 ### A. Why RL matters now (entry layer)
 - “Why RL now?” (decision‑making under uncertainty; robotics, healthcare, ops, LLM agents, recommender systems, finance)
-- “What RL is *not*” (supervised, unsupervised, causal vs. control)
+- “What RL is *not*” (supervised, unsupervised, causal vs control)
 - The RL loop + vocabulary (state, action, reward, return, policy, value)
 
 ### B. Historical foundation (conceptual roots)
@@ -97,7 +101,7 @@ Goal: theory‑heavy, reality‑grounded, notebook‑first, with examples throug
 
 ## Standard Notebook Structure (layered for mixed audiences)
 
-- 1‑page story: why this matters + real use case
+- 1‑page story: why this matters + real-world use case
 - Core idea: minimal math + intuition
 - Worked example: small MDP or toy environment
 - Code path A (beginner): run provided code, change 1–2 knobs
@@ -127,7 +131,7 @@ Use this structure for every notebook; skip sections only if truly unnecessary.
 - Short, descriptive, learner‑friendly
 
 ## 0. Snapshot (1 page max)
-- Why this matters now (real use case)
+- Why this matters now (real-world use case)
 - What you will learn (3–5 bullets)
 - Prereqs (math + coding)
 - Estimated time
@@ -186,7 +190,7 @@ Use this before publishing each notebook.
 - Clear “why this matters” in first page
 - Minimal math path exists (intuition + key terms)
 - Advanced path exists (optional deep dive)
-- Real‑world use case included
+- Real-world use case included
 
 ## Code and results
 - Runs top‑to‑bottom without errors
@@ -216,7 +220,7 @@ Use this before publishing each notebook.
 
 # Reinforcement Learning — Public Course
 
-Welcome. This course is a notebook‑first introduction to reinforcement learning, designed for learners who want both theory and hands‑on practice. It starts with intuition and real‑world motivation, then builds toward formal methods and modern deep RL.
+Welcome. This course is a notebook‑first introduction to reinforcement learning, designed for learners who want both theory and hands‑on practice. It starts with intuition and real-world motivation, then builds towards formal methods and modern deep RL.
 
 ## Who this is for
 - People considering further study in RL or AI
@@ -230,7 +234,7 @@ Welcome. This course is a notebook‑first introduction to reinforcement learnin
 4. Use the optional deep dives for full derivations and theory.
 
 Each notebook includes:
-- A real‑world motivation
+- A real-world motivation
 - A worked example or toy environment
 - Runnable code
 - Tiered exercises (concept checks → coding → extensions)
@@ -244,4 +248,3 @@ By the end, you should be able to:
 
 ## Notes
 Notebooks are designed to be read top‑to‑bottom and executed in a standard Python environment.
-
